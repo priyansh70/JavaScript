@@ -1,6 +1,7 @@
 // Sort Method 
 
-// The arr.sort() method is used to sort the array in place in a given order according to the compare() function. If the method is omitted then the array is sorted in ascending order.
+// The arr.sort() method is used to sort the array in place in a given order according to the compare() function. 
+// If the method is omitted then the array is sorted in ascending order.
 /*
 arr.sort(compareFunction)
 Parameters: This method accept a single parameter as mentioned above and described below:
