@@ -1,7 +1,8 @@
 // Slice Method 
 // start , delete , insert 
 
-// The arr.splice() method is an inbuilt method in JavaScript which is used to modify the contents of an array by removing the existing elements and/or by adding new elements.
+// The arr.splice() method is an inbuilt method in JavaScript which is used to modify the contents of an
+// array by removing the existing elements and/or by adding new elements.
 
 const arr = [1,5,9,7,3,6,4,8,2];
 console.log(arr);
