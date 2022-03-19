@@ -1,6 +1,7 @@
 // Every Method 
 
-// The arr.every() method checks whether all the elements of the array satisfy the given condition or not that is provided by a method passed to it as the argument. 
+// The arr.every() method checks whether all the elements of the array satisfy 
+// the given condition or not that is provided by a method passed to it as the argument. 
 
 const numbers = [2,4,6,8,10];
 const numbers2 = [1,3,5,4,6,2];
