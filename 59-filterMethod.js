@@ -1,6 +1,7 @@
 // Filter method 
 
-// The arr.filter() method is used to create a new array from a given array consisting of only those elements from the given array which satisfy a condition set by the argument method. 
+// The arr.filter() method is used to create a new array from a given array consisting of only those
+//elements from the given array which satisfy a condition set by the argument method. 
 
 const numArray = [1,6,5,3,4];
 
