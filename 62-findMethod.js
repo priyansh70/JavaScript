@@ -1,6 +1,8 @@
 // Find Method 
 
-// The arr.find() method in Javascript is used to get the value of the first element in the array that satisfies the provided condition. It checks all the elements of the array and whichever first element satisfies the condition is going to print. This function will not work function having the empty array elements, also does not change the original array
+// The arr.find() method in Javascript is used to get the value of the first element in the array that satisfies the provided condition. 
+// It checks all the elements of the array and whichever first element satisfies the condition is going to print. 
+// This function will not work function having the empty array elements, also does not change the original array
 
 const myArray = ["Priyansh","Khushi","Harshit","Rahul"];
 
